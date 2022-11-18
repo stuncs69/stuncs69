@@ -1,1 +1,2 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=stuncs69&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k65iz3fh8zkbhg5wzaigtlfej&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=k65iz3fh8zkbhg5wzaigtlfej&redirect=true)
