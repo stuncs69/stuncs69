@@ -5,7 +5,7 @@
 [Visit my website!](https://stuncs.dev/)
 
 ## My personal configurations:
-![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) [Click here](https://github.com/stuncs69/nvim-config)
 
 
 ### Fun stuff 🥳
